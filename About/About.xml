@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+    <name>Age Reversal Demand Tweak</name>
+    <author>xcqweas</author>
+    <packageId>xcqweas.AgeReversalDemandTweak</packageId>
+    <supportedVersions>
+        <li>1.5</li>
+    </supportedVersions>
+    <modDependencies>
+        <li>
+            <packageId>ludeon.rimworld.ideology</packageId>
+            <displayName>Ideology</displayName>
+        </li>
+        <li>
+            <packageId>brrainz.harmony</packageId>
+            <displayName>Harmony</displayName>
+        </li>
+    </modDependencies>
+        <description>This simple patch makes the pawn only demand age reversal after reaching 25/80 of their expectancy, instead of fixed 25 years.</description>
+</ModMetaData>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+	<Operation Class="PatchOperationReplace">
+		<xpath>Defs/PreceptDef[defName="AgeReversal_Demanded"]/description</xpath>
+		<value>
+			<description>Why get old? If over 5/16 of their life expectancy, one must have a once-yearly age reversal treatment in the biosculpter pod.</description>
+		</value>
+	</Operation>
+
+</Patch>

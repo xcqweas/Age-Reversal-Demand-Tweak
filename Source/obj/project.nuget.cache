@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "JqnO0FgCRB4=",
+  "success": true,
+  "projectFilePath": "D:\\SteamLibrary\\steamapps\\common\\RimWorld\\Mods\\AgeReversalPatch\\Source\\Source\\ScaledAgeReversalDemand.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xcqwe\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.3\\microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "C:\\Users\\xcqwe\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net472\\1.0.3\\microsoft.netframework.referenceassemblies.net472.1.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
