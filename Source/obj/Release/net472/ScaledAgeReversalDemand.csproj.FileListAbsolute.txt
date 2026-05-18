@@ -7,3 +7,13 @@ D:\SteamLibrary\steamapps\common\RimWorld\Mods\AgeReversalPatch\Source\Source\ob
 D:\SteamLibrary\steamapps\common\RimWorld\Mods\AgeReversalPatch\Source\Source\obj\Release\net472\ScaledAgeReversalDemand.csproj.CoreCompileInputs.cache
 D:\SteamLibrary\steamapps\common\RimWorld\Mods\AgeReversalPatch\Source\Source\obj\Release\net472\ScaledAgeReversalDemand.dll
 D:\SteamLibrary\steamapps\common\RimWorld\Mods\AgeReversalPatch\Source\Source\obj\Release\net472\ScaledAgeReversalDemand.pdb
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\AgeReversalDemandTweak\Assemblies\net472\ScaledAgeReversalDemand.dll
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\AgeReversalDemandTweak\Assemblies\net472\ScaledAgeReversalDemand.pdb
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\AgeReversalDemandTweak\Source\obj\Release\net472\ScaledAgeReversalDemand.csproj.AssemblyReference.cache
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\AgeReversalDemandTweak\Source\obj\Release\net472\ScaledAgeReversalDemand.GeneratedMSBuildEditorConfig.editorconfig
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\AgeReversalDemandTweak\Source\obj\Release\net472\ScaledAgeReversalDemand.AssemblyInfoInputs.cache
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\AgeReversalDemandTweak\Source\obj\Release\net472\ScaledAgeReversalDemand.AssemblyInfo.cs
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\AgeReversalDemandTweak\Source\obj\Release\net472\ScaledAgeReversalDemand.csproj.CoreCompileInputs.cache
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\AgeReversalDemandTweak\Source\obj\Release\net472\ScaledAgeReversalDemand.sourcelink.json
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\AgeReversalDemandTweak\Source\obj\Release\net472\ScaledAgeReversalDemand.dll
+D:\SteamLibrary\steamapps\common\RimWorld\Mods\AgeReversalDemandTweak\Source\obj\Release\net472\ScaledAgeReversalDemand.pdb

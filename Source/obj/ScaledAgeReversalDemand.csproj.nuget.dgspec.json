@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SteamLibrary\\steamapps\\common\\RimWorld\\Mods\\AgeReversalPatch\\Source\\Source\\ScaledAgeReversalDemand.csproj": {}
+    "D:\\SteamLibrary\\steamapps\\common\\RimWorld\\Mods\\AgeReversalDemandTweak\\Source\\ScaledAgeReversalDemand.csproj": {}
   },
   "projects": {
-    "D:\\SteamLibrary\\steamapps\\common\\RimWorld\\Mods\\AgeReversalPatch\\Source\\Source\\ScaledAgeReversalDemand.csproj": {
+    "D:\\SteamLibrary\\steamapps\\common\\RimWorld\\Mods\\AgeReversalDemandTweak\\Source\\ScaledAgeReversalDemand.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SteamLibrary\\steamapps\\common\\RimWorld\\Mods\\AgeReversalPatch\\Source\\Source\\ScaledAgeReversalDemand.csproj",
+        "projectUniqueName": "D:\\SteamLibrary\\steamapps\\common\\RimWorld\\Mods\\AgeReversalDemandTweak\\Source\\ScaledAgeReversalDemand.csproj",
         "projectName": "ScaledAgeReversalDemand",
-        "projectPath": "D:\\SteamLibrary\\steamapps\\common\\RimWorld\\Mods\\AgeReversalPatch\\Source\\Source\\ScaledAgeReversalDemand.csproj",
+        "projectPath": "D:\\SteamLibrary\\steamapps\\common\\RimWorld\\Mods\\AgeReversalDemandTweak\\Source\\ScaledAgeReversalDemand.csproj",
         "packagesPath": "C:\\Users\\xcqwe\\.nuget\\packages\\",
-        "outputPath": "D:\\SteamLibrary\\steamapps\\common\\RimWorld\\Mods\\AgeReversalPatch\\Source\\Source\\obj\\",
+        "outputPath": "D:\\SteamLibrary\\steamapps\\common\\RimWorld\\Mods\\AgeReversalDemandTweak\\Source\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\xcqwe\\AppData\\Roaming\\NuGet\\NuGet.Config"
